@@ -1,0 +1,31 @@
+{
+  "main_menu_order": [
+    "🎰 Casino Offers",
+    "🪙 Rummy Bonus",
+    "🎯 Teen Patti Loot",
+    "💵 Free Income",
+    "🎁 Signup Bonus"
+  ],
+  "categories": {
+    "🎰 Casino Offers": [
+      { "name": "All lottery site", "url": "https://t.me/trusted_Loot_Offers" },
+      { "name": "All Yono Game", "url": "https://t.me/trusted_Loot_Offers" },
+      { "name": "MostBet", "url": "https://t.me/trusted_Loot_Offers" }
+    ],
+    "🪙 Rummy Bonus": [
+      { "name": "Yono Rummy", "url": "https://t.me/trusted_Loot_Offers" },
+      { "name": "Ok Rummy", "url": "https://t.me/trusted_Loot_Offers" }
+    ],
+    "🎯 Teen Patti Loot": [
+      { "name": "BDG Slot", "url": "https://t.me/trusted_Loot_Offers" }
+    ],
+    "💵 Free Income": [
+      { "name": "Task Earning", "url": "https://t.me/trusted_Loot_Offers" },
+      { "name": "500 Spin Tricks", "url": "https://t.me/trusted_Loot_Offers" }
+    ],
+    "🎁 Signup Bonus": [
+      { "name": "New User ₹500 Bonus", "url": "https://t.me/trusted_Loot_Offers" },
+      { "name": "Daily Login Rewards", "url": "https://t.me/trusted_Loot_Offers" }
+    ]
+  }
+}
